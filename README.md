@@ -24,7 +24,7 @@ bash
 **Copy code**
 
 
-git clone https://github.com/your_username/otp_verification.git
+git clone https://github.com/Ramyadarapureddy/otp_verification.git
 Navigate into the project directory:
 bash
 
