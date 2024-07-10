@@ -58,8 +58,12 @@ Follow the on-screen instructions for OTP verification.
 
 
 Sai Ramya Sri Darapureddy
-Role:Python Full Stack Developer
-Email: sairamyasridarapureddy@example.com
+
+
+**Role:**  Python Full Stack Developer
+
+
+**Email:**   sairamyasridarapureddy@example.com
 
 **License**
 
