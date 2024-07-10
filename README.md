@@ -1,5 +1,7 @@
 **OTP Verification Project**
 **Overview**
+
+
 This project is a Python-based OTP (One-Time Password) verification system using SMTP for email delivery. It generates a random 6-digit OTP, sends it to the user's email address, and verifies the OTP entered by the user.
 
 **Features**
